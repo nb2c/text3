@@ -1,0 +1,21 @@
+{
+  "name": "webgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies":{
+  "webpack":"",
+  "css-loader":"",
+  "style-loader":"",
+  "less-loader":"",
+  "extract-text-webpack-plugin":"",
+  "file-loader":"",
+  "html-webpack-plugin":"",
+  "html-loader":""
+  }
+}
